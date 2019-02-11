@@ -3,12 +3,34 @@
     <title>publii-cms</title>
     <link href="https://brunonepomuceno.github.io/gh-pages.git/feed.xml" rel="self" />
     <link href="https://brunonepomuceno.github.io/gh-pages.git" />
-    <updated>2019-02-11T16:58:45-02:00</updated>
+    <updated>2019-02-11T17:03:31-02:00</updated>
     <author>
         <name>brunonepomuceno</name>
     </author>
     <id>https://brunonepomuceno.github.io/gh-pages.git</id>
 
+    <entry>
+        <title>teste 2</title>
+        <author>
+            <name>brunonepomuceno</name>
+        </author>
+        <link href="https://brunonepomuceno.github.io/gh-pages.git/teste-2.html"/>
+        <id>https://brunonepomuceno.github.io/gh-pages.git/teste-2.html</id>
+
+        <updated>2019-02-11T17:03:22-02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://brunonepomuceno.github.io/gh-pages.git/media/posts/2/" alt="" />
+                    teste 2 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://brunonepomuceno.github.io/gh-pages.git/media/posts/2/" alt="" />
+                teste 2 <img class="post__image" src="https://brunonepomuceno.github.io/gh-pages.git/media/posts/2/logo.png" alt="" width="234" height="124">
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Don&#x27;t Take This The Wrong Way</title>
         <author>

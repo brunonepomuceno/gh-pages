@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://brunonepomuceno.github.io/gh-pages.git/teste-2.html",
+            "url": "https://brunonepomuceno.github.io/gh-pages.git/teste-2.html",
+            "title": "teste 2",
+            "summary": "teste 2 ",
+            "content_html": "teste 2 <img class=\"post__image\" src=\"https://brunonepomuceno.github.io/gh-pages.git/media/posts/2/logo.png\" alt=\"\" width=\"234\" height=\"124\">",
+            "image": "https://brunonepomuceno.github.io/gh-pages.git/media/posts/2/",
+            "author": {
+                "name": "brunonepomuceno"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-02-11T17:03:22-02:00",
+            "date_modified": "2019-02-11T17:03:22-02:00"
+        },
+        {
             "id": "https://brunonepomuceno.github.io/gh-pages.git/dont-take-this-the-wrong-way.html",
             "url": "https://brunonepomuceno.github.io/gh-pages.git/dont-take-this-the-wrong-way.html",
             "title": "Don&#x27;t Take This The Wrong Way",
