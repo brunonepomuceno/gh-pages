@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "publii-cms",
+    "description": "",
+    "home_page_url": "https://brunonepomuceno.github.io/gh-pages.git",
+    "feed_url": "https://brunonepomuceno.github.io/gh-pages.git/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "brunonepomuceno"
+    },
+    "items": [
+        {
+            "id": "https://brunonepomuceno.github.io/gh-pages.git/dont-take-this-the-wrong-way.html",
+            "url": "https://brunonepomuceno.github.io/gh-pages.git/dont-take-this-the-wrong-way.html",
+            "title": "Don&#x27;t Take This The Wrong Way",
+            "summary": "Don't Take This The Wrong Way ",
+            "content_html": "<p>Don't Take This The Wrong Way</p>\n<figure class=\"post__image post__image--full\" ><img src=\"https://brunonepomuceno.github.io/gh-pages.git/media/posts/1/Don-t-Take-This-The-Wrong-Way-side-B_1000.jpg\" alt=\"Don't Take This The Wrong Way\" width=\"1000\" height=\"516\">\n<figcaption >Put your caption here</figcaption>\n</figure>\n<p> </p>",
+            "image": "https://brunonepomuceno.github.io/gh-pages.git/media/posts/1/",
+            "author": {
+                "name": "brunonepomuceno"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-02-11T16:43:07-02:00",
+            "date_modified": "2019-02-11T16:48:53-02:00"
+        }
+    ]
+}

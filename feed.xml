@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>publii-cms</title>
+    <link href="https://brunonepomuceno.github.io/gh-pages.git/feed.xml" rel="self" />
+    <link href="https://brunonepomuceno.github.io/gh-pages.git" />
+    <updated>2019-02-11T16:58:45-02:00</updated>
+    <author>
+        <name>brunonepomuceno</name>
+    </author>
+    <id>https://brunonepomuceno.github.io/gh-pages.git</id>
+
+    <entry>
+        <title>Don&#x27;t Take This The Wrong Way</title>
+        <author>
+            <name>brunonepomuceno</name>
+        </author>
+        <link href="https://brunonepomuceno.github.io/gh-pages.git/dont-take-this-the-wrong-way.html"/>
+        <id>https://brunonepomuceno.github.io/gh-pages.git/dont-take-this-the-wrong-way.html</id>
+
+        <updated>2019-02-11T16:48:53-02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://brunonepomuceno.github.io/gh-pages.git/media/posts/1/" alt="" />
+                    Don't Take This The Wrong Way 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://brunonepomuceno.github.io/gh-pages.git/media/posts/1/" alt="" />
+                <p>Don't Take This The Wrong Way</p>
+<figure class="post__image post__image--full" ><img src="https://brunonepomuceno.github.io/gh-pages.git/media/posts/1/Don-t-Take-This-The-Wrong-Way-side-B_1000.jpg" alt="Don't Take This The Wrong Way" width="1000" height="516">
+<figcaption >Put your caption here</figcaption>
+</figure>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
